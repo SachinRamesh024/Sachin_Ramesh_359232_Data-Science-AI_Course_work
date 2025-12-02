@@ -19,10 +19,10 @@ This project allows users to **upload a Spotify dataset**, explore it visually, 
 
 ## **📂 Folder Structure**
 
-Spotify-ML-Explorer/
-│
-├── app.py # Main Streamlit app
-├── requirements.txt # Python dependencies
-├── README.md # Project description
-├── spotify_tracks.csv # Kaggle dataset
+- Spotify-ML-Explorer/
+- │
+- ├── app.py # Main Streamlit app
+- ├── requirements.txt # Python dependencies
+- ├── README.md # Project description
+- ├── spotify_tracks.csv # Kaggle dataset
 
